@@ -10,7 +10,9 @@ public static void main(String[] args) {
 		sum += num%10;
 		
 		num/=10;
-	System.out.println(sum);	
+	System.out.println(sum);
+	
+	System.out.println("fsdsdf");
 	
  }
 
